@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/modules/admin-gui/admin-gui.iml" filepath="$PROJECT_DIR$/modules/admin-gui/admin-gui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/certificatestore/certificatestore.iml" filepath="$PROJECT_DIR$/modules/certificatestore/certificatestore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/cesecore-common/cesecore-common.iml" filepath="$PROJECT_DIR$/modules/cesecore-common/cesecore-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/cesecore-ejb/cesecore-ejb.iml" filepath="$PROJECT_DIR$/modules/cesecore-ejb/cesecore-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/cesecore-ejb-interface/cesecore-ejb-interface.iml" filepath="$PROJECT_DIR$/modules/cesecore-ejb-interface/cesecore-ejb-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/cesecore-entity/cesecore-entity.iml" filepath="$PROJECT_DIR$/modules/cesecore-entity/cesecore-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/cesecore-p11/cesecore-p11.iml" filepath="$PROJECT_DIR$/modules/cesecore-p11/cesecore-p11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/cesecore-x509ca/cesecore-x509ca.iml" filepath="$PROJECT_DIR$/modules/cesecore-x509ca/cesecore-x509ca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/clearcache-war/clearcache-war.iml" filepath="$PROJECT_DIR$/modules/clearcache-war/clearcache-war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/cli-util/cli-util.iml" filepath="$PROJECT_DIR$/modules/cli-util/cli-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/clientToolBox/clientToolBox.iml" filepath="$PROJECT_DIR$/modules/clientToolBox/clientToolBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/crlstore/crlstore.iml" filepath="$PROJECT_DIR$/modules/crlstore/crlstore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/edition-specific/edition-specific.iml" filepath="$PROJECT_DIR$/modules/edition-specific/edition-specific.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ejbca-7.9.iml" filepath="$PROJECT_DIR$/.idea/ejbca-7.9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/ejbca-cmp-war/ejbca-cmp-war.iml" filepath="$PROJECT_DIR$/modules/ejbca-cmp-war/ejbca-cmp-war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/ejbca-common/ejbca-common.iml" filepath="$PROJECT_DIR$/modules/ejbca-common/ejbca-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/ejbca-common-web/ejbca-common-web.iml" filepath="$PROJECT_DIR$/modules/ejbca-common-web/ejbca-common-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/ejbca-ejb/ejbca-ejb.iml" filepath="$PROJECT_DIR$/modules/ejbca-ejb/ejbca-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/ejbca-ejb-cli/ejbca-ejb-cli.iml" filepath="$PROJECT_DIR$/modules/ejbca-ejb-cli/ejbca-ejb-cli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/ejbca-ejb-interface/ejbca-ejb-interface.iml" filepath="$PROJECT_DIR$/modules/ejbca-ejb-interface/ejbca-ejb-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/ejbca-entity/ejbca-entity.iml" filepath="$PROJECT_DIR$/modules/ejbca-entity/ejbca-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/ejbca-renew-war/ejbca-renew-war.iml" filepath="$PROJECT_DIR$/modules/ejbca-renew-war/ejbca-renew-war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/ejbca-rest-api/ejbca-rest-api.iml" filepath="$PROJECT_DIR$/modules/ejbca-rest-api/ejbca-rest-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/ejbca-rest-common/ejbca-rest-common.iml" filepath="$PROJECT_DIR$/modules/ejbca-rest-common/ejbca-rest-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/ejbca-scep-war/ejbca-scep-war.iml" filepath="$PROJECT_DIR$/modules/ejbca-scep-war/ejbca-scep-war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/ejbca-webdist-war/ejbca-webdist-war.iml" filepath="$PROJECT_DIR$/modules/ejbca-webdist-war/ejbca-webdist-war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/ejbca-webtest/ejbca-webtest.iml" filepath="$PROJECT_DIR$/modules/ejbca-webtest/ejbca-webtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/ejbca-ws/ejbca-ws.iml" filepath="$PROJECT_DIR$/modules/ejbca-ws/ejbca-ws.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/ejbca-ws-cli/ejbca-ws-cli.iml" filepath="$PROJECT_DIR$/modules/ejbca-ws-cli/ejbca-ws-cli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/healthcheck-war/healthcheck-war.iml" filepath="$PROJECT_DIR$/modules/healthcheck-war/healthcheck-war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/samples/plugins/mypublisher/mypublisher.iml" filepath="$PROJECT_DIR$/src/samples/plugins/mypublisher/mypublisher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/samples/plugins/mywebapps/mywebapps.iml" filepath="$PROJECT_DIR$/src/samples/plugins/mywebapps/mywebapps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/publicweb-gui/publicweb-gui.iml" filepath="$PROJECT_DIR$/modules/publicweb-gui/publicweb-gui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/ra-gui/ra-gui.iml" filepath="$PROJECT_DIR$/modules/ra-gui/ra-gui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/systemtests/systemtests.iml" filepath="$PROJECT_DIR$/modules/systemtests/systemtests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/va/va.iml" filepath="$PROJECT_DIR$/modules/va/va.iml" />
+    </modules>
+  </component>
+</project>

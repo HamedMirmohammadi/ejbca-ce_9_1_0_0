@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mariadb-java-client5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jenkins-files/common/lib/mariadb/mariadb-java-client.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

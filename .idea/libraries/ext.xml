@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="ext">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ext/junit-4.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ext/system-rules-1.19.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ext/slf4j-api-1.7.35.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ext/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ext/slf4j-reload4j-1.7.35.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ext/servicemanifestbuilder-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ext/mailapi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ext/geronimo-osgi-locator-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
