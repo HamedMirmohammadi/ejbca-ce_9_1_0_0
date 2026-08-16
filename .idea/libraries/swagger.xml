@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="swagger">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ext/swagger/swagger-annotations-1.6.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ext/swagger/reflections-0.9.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ext/swagger/swagger-core-1.6.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ext/swagger/swagger-jaxrs-1.6.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ext/swagger/swagger-models-1.6.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ext/swagger/commons-lang3-3.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

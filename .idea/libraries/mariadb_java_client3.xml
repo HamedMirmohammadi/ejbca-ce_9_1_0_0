@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mariadb-java-client3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jenkins-files/EE_COS7_OpenJDK8_WF10_SOFTHSM_MariaDB/mariadb-java-client.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

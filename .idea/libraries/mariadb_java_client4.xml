@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mariadb-java-client4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jenkins-files/EE_UBUNTU16_OpenJDK8_WF12_SELENIUMTESTS/ejbca_image/mariadb-java-client.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

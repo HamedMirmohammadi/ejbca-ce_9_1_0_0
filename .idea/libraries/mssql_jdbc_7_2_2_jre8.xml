@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mssql-jdbc-7.2.2.jre8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jenkins-files/EE_COS7_OpenJDK8_WF10_NOHSM_MSSQL2017/mssql-jdbc-7.2.2.jre8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
